@@ -3,7 +3,7 @@
 let fs = require('fs')
 let path = require('path')
 
-let funFun = 'require("color-bomb");'
+let funFun = 'require("glitter-bomb");'
 let pkg = require(path.resolve(__dirname, '../../', 'package.json'))
 let main = pkg.main
 let file = fs.readFileSync(path.resolve(__dirname, '../../', main)).toString()
