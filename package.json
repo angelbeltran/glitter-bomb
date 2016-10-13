@@ -1,6 +1,6 @@
 {
   "name": "glitter-bomb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A way to mess with your buddy's console. Family friendly, too.",
   "main": "index.js",
   "scripts": {
